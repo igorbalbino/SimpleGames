@@ -1,0 +1,15 @@
+﻿  Origem.cpp
+C:\Users\Teknisa\Documents\coisas\SimpleGames\SimpleGame01\SimpleGame01\SimpleGame01\Origem.cpp(46,9): error C3861: 'renderGame': identificador não encontrado
+  Window.cpp
+C:\Users\Teknisa\Documents\coisas\SimpleGames\SimpleGame01\SimpleGame01\SimpleGame01\Window.cpp(11,5): error C2039: ' RenderWindow': não é um membro de 'sf'
+C:\Users\Teknisa\Documents\coisas\SimpleGames\SimpleGame01\SimpleGame01\ExternalLibs\include\SFML\Window\Window.hpp(44): message : consulte a declaração de 'sf'
+C:\Users\Teknisa\Documents\coisas\SimpleGames\SimpleGame01\SimpleGame01\SimpleGame01\Window.cpp(11,24): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Teknisa\Documents\coisas\SimpleGames\SimpleGame01\SimpleGame01\SimpleGame01\Window.cpp(11,18): error C2146: erro de sintaxe: ';' ausente antes do identificador 'window'
+C:\Users\Teknisa\Documents\coisas\SimpleGames\SimpleGame01\SimpleGame01\SimpleGame01\Window.cpp(26,12): error C2065: 'window': identificador não declarado
+C:\Users\Teknisa\Documents\coisas\SimpleGames\SimpleGame01\SimpleGame01\SimpleGame01\Window.cpp(28,16): error C2065: 'window': identificador não declarado
+C:\Users\Teknisa\Documents\coisas\SimpleGames\SimpleGame01\SimpleGame01\SimpleGame01\Window.cpp(33,21): error C2065: 'window': identificador não declarado
+C:\Users\Teknisa\Documents\coisas\SimpleGames\SimpleGame01\SimpleGame01\SimpleGame01\Window.cpp(36,62): error C2065: 'window': identificador não declarado
+C:\Users\Teknisa\Documents\coisas\SimpleGames\SimpleGame01\SimpleGame01\SimpleGame01\Window.cpp(45,9): error C3861: 'renderGame': identificador não encontrado
+C:\Users\Teknisa\Documents\coisas\SimpleGames\SimpleGame01\SimpleGame01\SimpleGame01\Window.cpp(56,5): error C2065: 'window': identificador não declarado
+C:\Users\Teknisa\Documents\coisas\SimpleGames\SimpleGame01\SimpleGame01\SimpleGame01\Window.cpp(61,5): error C2065: 'window': identificador não declarado
+  ConfigLibs.cpp
